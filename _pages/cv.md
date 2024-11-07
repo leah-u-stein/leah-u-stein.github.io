@@ -8,4 +8,4 @@ cv_pdf: stein_cv_2024.pdf
 description: 
 ---
 
-My CV can be found [here](stein_cv_2024.pdf)
+My CV can be found [here] {{< ref "files/stein_cv_2024.pdf" >}}. 
