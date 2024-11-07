@@ -8,10 +8,10 @@ profile:
   align: right
   image: lus_headshot.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>CGIS Knafel </p>
-    <p>1737 Cambridge St</p>
-    <p>Cambridge, MA 02139 </p>
+  more_info: 
+    #<p>CGIS Knafel </p>
+    #<p>1737 Cambridge St</p>
+    #<p>Cambridge, MA 02139 </p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
