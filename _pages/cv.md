@@ -8,5 +8,5 @@ cv_pdf: stein_cv_2024.pdf
 description: 
 ---
 
-My CV can be found <a href='https://leah-u-stein.github.io/assets/pdf/stein_cv_2024.pdf'>here</a>.
+My CV can be found <a href='https://leah-u-stein.github.io/assets/pdf/stein_cv_2025.pdf'>here</a>.
 
